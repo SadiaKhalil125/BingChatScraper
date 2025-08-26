@@ -69,7 +69,7 @@ python bing_chat_scraper.py
 
 **Usage**
 
-```bash```
+```bash
 
 from bing_chat_scraper import BingChatScraper
 import os
@@ -89,7 +89,7 @@ if scraper.login():
     response = scraper.send_query("Hello, how are you?")
     print(response)
 
-```bash```
+```
 
 **Logging**
 
